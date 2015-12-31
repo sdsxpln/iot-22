@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/software/!svn/ver/8367/project/IOT/branch/iot-host-8360/host/os_wrapper/MicroC
+END
+porting.c
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/software/!svn/ver/8367/project/IOT/branch/iot-host-8360/host/os_wrapper/MicroC/porting.c
+END
+porting.h
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/software/!svn/ver/8367/project/IOT/branch/iot-host-8360/host/os_wrapper/MicroC/porting.h
+END
+rtos.c
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/software/!svn/ver/8367/project/IOT/branch/iot-host-8360/host/os_wrapper/MicroC/rtos.c
+END

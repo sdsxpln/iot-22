@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svn/software/!svn/ver/7673/project/IOT/tag/iot-host-7672/tag/iot-host-7574/host/tcpip/lwip-1.4.0/ports/icomm/include/arch
+END
+cc.h
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/svn/software/!svn/ver/7673/project/IOT/tag/iot-host-7672/tag/iot-host-7574/host/tcpip/lwip-1.4.0/ports/icomm/include/arch/cc.h
+END
+bpstruct.h
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/svn/software/!svn/ver/7673/project/IOT/tag/iot-host-7672/tag/iot-host-7574/host/tcpip/lwip-1.4.0/ports/icomm/include/arch/bpstruct.h
+END
+epstruct.h
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/svn/software/!svn/ver/7673/project/IOT/tag/iot-host-7672/tag/iot-host-7574/host/tcpip/lwip-1.4.0/ports/icomm/include/arch/epstruct.h
+END
+sys_arch.h
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/svn/software/!svn/ver/7673/project/IOT/tag/iot-host-7672/tag/iot-host-7574/host/tcpip/lwip-1.4.0/ports/icomm/include/arch/sys_arch.h
+END
+perf.h
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/svn/software/!svn/ver/7673/project/IOT/tag/iot-host-7672/tag/iot-host-7574/host/tcpip/lwip-1.4.0/ports/icomm/include/arch/perf.h
+END

@@ -1,0 +1,125 @@
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/software/!svn/ver/9832/project/IOT/trunk/iot-host/host/app/cli/cmds
+END
+cli_cmd_sdio_test.h
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/software/!svn/ver/8144/project/IOT/trunk/iot-host/host/app/cli/cmds/cli_cmd_sdio_test.h
+END
+cli_cmd_wifi.h
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/software/!svn/ver/9259/project/IOT/trunk/iot-host/host/app/cli/cmds/cli_cmd_wifi.h
+END
+cli_cmd_rf_test.c
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/software/!svn/ver/8844/project/IOT/trunk/iot-host/host/app/cli/cmds/cli_cmd_rf_test.c
+END
+cli_cmd_throughput.c
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/software/!svn/ver/8144/project/IOT/trunk/iot-host/host/app/cli/cmds/cli_cmd_throughput.c
+END
+cli_cmd_rf_test.h
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/software/!svn/ver/8844/project/IOT/trunk/iot-host/host/app/cli/cmds/cli_cmd_rf_test.h
+END
+cli_cmd_sys.c
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/software/!svn/ver/9642/project/IOT/trunk/iot-host/host/app/cli/cmds/cli_cmd_sys.c
+END
+cli_cmd_throughput.h
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/software/!svn/ver/8144/project/IOT/trunk/iot-host/host/app/cli/cmds/cli_cmd_throughput.h
+END
+cli_cmd_test.c
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/software/!svn/ver/8144/project/IOT/trunk/iot-host/host/app/cli/cmds/cli_cmd_test.c
+END
+cli_cmd.c
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/software/!svn/ver/9821/project/IOT/trunk/iot-host/host/app/cli/cmds/cli_cmd.c
+END
+cli_cmd_sys.h
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/software/!svn/ver/8144/project/IOT/trunk/iot-host/host/app/cli/cmds/cli_cmd_sys.h
+END
+cli_cmd_soc.c
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/software/!svn/ver/8373/project/IOT/trunk/iot-host/host/app/cli/cmds/cli_cmd_soc.c
+END
+cli_cmd_test.h
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/software/!svn/ver/8144/project/IOT/trunk/iot-host/host/app/cli/cmds/cli_cmd_test.h
+END
+cli_cmd.h
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/software/!svn/ver/7012/project/IOT/trunk/iot-host/host/app/cli/cmds/cli_cmd.h
+END
+cli_cmd_net.c
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/software/!svn/ver/8429/project/IOT/trunk/iot-host/host/app/cli/cmds/cli_cmd_net.c
+END
+cli_cmd_sim.c
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/software/!svn/ver/8144/project/IOT/trunk/iot-host/host/app/cli/cmds/cli_cmd_sim.c
+END
+cli_cmd_soc.h
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/software/!svn/ver/8144/project/IOT/trunk/iot-host/host/app/cli/cmds/cli_cmd_soc.h
+END
+cli_cmd_net.h
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/software/!svn/ver/8429/project/IOT/trunk/iot-host/host/app/cli/cmds/cli_cmd_net.h
+END
+cli_cmd_sim.h
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/software/!svn/ver/8144/project/IOT/trunk/iot-host/host/app/cli/cmds/cli_cmd_sim.h
+END
+cli_cmd_sdio_test.c
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/software/!svn/ver/8144/project/IOT/trunk/iot-host/host/app/cli/cmds/cli_cmd_sdio_test.c
+END
+cli_cmd_wifi.c
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/software/!svn/ver/9832/project/IOT/trunk/iot-host/host/app/cli/cmds/cli_cmd_wifi.c
+END

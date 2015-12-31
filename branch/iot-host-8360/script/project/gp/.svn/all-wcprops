@@ -1,0 +1,71 @@
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/software/!svn/ver/8367/project/IOT/branch/iot-host-8360/script/project/gp
+END
+gp15-release-build.pl
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/software/!svn/ver/8367/project/IOT/branch/iot-host-8360/script/project/gp/gp15-release-build.pl
+END
+autobuild.pl
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/software/!svn/ver/8367/project/IOT/branch/iot-host-8360/script/project/gp/autobuild.pl
+END
+gp15b_build.bat
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/software/!svn/ver/8367/project/IOT/branch/iot-host-8360/script/project/gp/gp15b_build.bat
+END
+gp15b_build_q.bat
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/software/!svn/ver/8367/project/IOT/branch/iot-host-8360/script/project/gp/gp15b_build_q.bat
+END
+gp15b_clean_build.bat
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/software/!svn/ver/8367/project/IOT/branch/iot-host-8360/script/project/gp/gp15b_clean_build.bat
+END
+gp15b_clean_build_q.bat
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/software/!svn/ver/8367/project/IOT/branch/iot-host-8360/script/project/gp/gp15b_clean_build_q.bat
+END
+gp19b_build.bat
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/software/!svn/ver/8367/project/IOT/branch/iot-host-8360/script/project/gp/gp19b_build.bat
+END
+gp19b_build_q.bat
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/software/!svn/ver/8367/project/IOT/branch/iot-host-8360/script/project/gp/gp19b_build_q.bat
+END
+gpconfig.pl
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/software/!svn/ver/8367/project/IOT/branch/iot-host-8360/script/project/gp/gpconfig.pl
+END
+gp19b_clean_build.bat
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/software/!svn/ver/8367/project/IOT/branch/iot-host-8360/script/project/gp/gp19b_clean_build.bat
+END
+gp19b_clean_build_q.bat
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/software/!svn/ver/8367/project/IOT/branch/iot-host-8360/script/project/gp/gp19b_clean_build_q.bat
+END

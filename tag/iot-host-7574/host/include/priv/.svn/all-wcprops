@@ -1,0 +1,71 @@
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/software/!svn/ver/7661/project/IOT/tag/iot-host-7574/host/include/priv
+END
+config_ssid.h
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/software/!svn/ver/7661/project/IOT/tag/iot-host-7574/host/include/priv/config_ssid.h
+END
+ssv_dev.h
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/software/!svn/ver/7661/project/IOT/tag/iot-host-7574/host/include/priv/ssv_dev.h
+END
+ssv_timer.h
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/software/!svn/ver/7661/project/IOT/tag/iot-host-7574/host/include/priv/ssv_timer.h
+END
+hctrl.h
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/software/!svn/ver/7661/project/IOT/tag/iot-host-7574/host/include/priv/hctrl.h
+END
+host_global.h
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/software/!svn/ver/7661/project/IOT/tag/iot-host-7574/host/include/priv/host_global.h
+END
+dev.h
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/software/!svn/ver/7661/project/IOT/tag/iot-host-7574/host/include/priv/dev.h
+END
+lwipopts.h
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/software/!svn/ver/7661/project/IOT/tag/iot-host-7574/host/include/priv/lwipopts.h
+END
+ssv_lib.h
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/software/!svn/ver/7661/project/IOT/tag/iot-host-7574/host/include/priv/ssv_lib.h
+END
+host_config.h
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/software/!svn/ver/7661/project/IOT/tag/iot-host-7574/host/include/priv/host_config.h
+END
+lib-impl.h
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/software/!svn/ver/7661/project/IOT/tag/iot-host-7574/host/include/priv/lib-impl.h
+END
+ssv_frame.h
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/software/!svn/ver/7661/project/IOT/tag/iot-host-7574/host/include/priv/ssv_frame.h
+END

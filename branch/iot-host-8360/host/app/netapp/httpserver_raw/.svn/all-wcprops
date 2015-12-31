@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/software/!svn/ver/8367/project/IOT/branch/iot-host-8360/host/app/netapp/httpserver_raw
+END
+fsdata.c
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/software/!svn/ver/8367/project/IOT/branch/iot-host-8360/host/app/netapp/httpserver_raw/fsdata.c
+END
+httpd.c
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/software/!svn/ver/8367/project/IOT/branch/iot-host-8360/host/app/netapp/httpserver_raw/httpd.c
+END
+httpd_cgi_ssi.c
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/software/!svn/ver/8367/project/IOT/branch/iot-host-8360/host/app/netapp/httpserver_raw/httpd_cgi_ssi.c
+END
+help.txt
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/software/!svn/ver/8367/project/IOT/branch/iot-host-8360/host/app/netapp/httpserver_raw/help.txt
+END
+fsdata.h
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/software/!svn/ver/8367/project/IOT/branch/iot-host-8360/host/app/netapp/httpserver_raw/fsdata.h
+END
+fs.c
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/software/!svn/ver/8367/project/IOT/branch/iot-host-8360/host/app/netapp/httpserver_raw/fs.c
+END
+httpd.h
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/software/!svn/ver/8367/project/IOT/branch/iot-host-8360/host/app/netapp/httpserver_raw/httpd.h
+END
+http_fs.h
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/software/!svn/ver/8367/project/IOT/branch/iot-host-8360/host/app/netapp/httpserver_raw/http_fs.h
+END
+httpd_structs.h
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/software/!svn/ver/8367/project/IOT/branch/iot-host-8360/host/app/netapp/httpserver_raw/httpd_structs.h
+END

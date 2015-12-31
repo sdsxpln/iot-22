@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/software/!svn/ver/7661/project/IOT/tag/iot-host-7574/host/drv/ftdi-spi/lib/windows/i386
+END
+libMPSSE.lib
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/software/!svn/ver/7661/project/IOT/tag/iot-host-7574/host/drv/ftdi-spi/lib/windows/i386/libMPSSE.lib
+END
+libMPSSE.dll
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/software/!svn/ver/7661/project/IOT/tag/iot-host-7574/host/drv/ftdi-spi/lib/windows/i386/libMPSSE.dll
+END
+libMPSSE.exp
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/software/!svn/ver/7661/project/IOT/tag/iot-host-7574/host/drv/ftdi-spi/lib/windows/i386/libMPSSE.exp
+END
+libMPSSE.def
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/software/!svn/ver/7661/project/IOT/tag/iot-host-7574/host/drv/ftdi-spi/lib/windows/i386/libMPSSE.def
+END

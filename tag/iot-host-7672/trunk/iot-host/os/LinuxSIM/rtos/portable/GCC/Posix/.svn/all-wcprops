@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/software/!svn/ver/7673/project/IOT/tag/iot-host-7672/trunk/iot-host/os/LinuxSIM/rtos/portable/GCC/Posix
+END
+port.c
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/software/!svn/ver/7673/project/IOT/tag/iot-host-7672/trunk/iot-host/os/LinuxSIM/rtos/portable/GCC/Posix/port.c
+END
+portmacro.h
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/software/!svn/ver/7673/project/IOT/tag/iot-host-7672/trunk/iot-host/os/LinuxSIM/rtos/portable/GCC/Posix/portmacro.h
+END

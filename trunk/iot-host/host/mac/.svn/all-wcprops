@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/software/!svn/ver/7012/project/IOT/trunk/iot-host/host/mac
+END
+ap_cfg.h
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/software/!svn/ver/7012/project/IOT/trunk/iot-host/host/mac/ap_cfg.h
+END
+sta_cfg.c
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/software/!svn/ver/7012/project/IOT/trunk/iot-host/host/mac/sta_cfg.c
+END
+sta_cfg.h
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/software/!svn/ver/7012/project/IOT/trunk/iot-host/host/mac/sta_cfg.h
+END
+ap_cfg.c
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/software/!svn/ver/7012/project/IOT/trunk/iot-host/host/mac/ap_cfg.c
+END

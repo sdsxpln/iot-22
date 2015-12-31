@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/software/!svn/ver/7673/project/IOT/tag/iot-host-7672/trunk/iot-host/host/include/priv/hw/regs
+END
+ssv6200_configuration.h
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svn/software/!svn/ver/7673/project/IOT/tag/iot-host-7672/trunk/iot-host/host/include/priv/hw/regs/ssv6200_configuration.h
+END
+ssv6200_aux.h
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/software/!svn/ver/7673/project/IOT/tag/iot-host-7672/trunk/iot-host/host/include/priv/hw/regs/ssv6200_aux.h
+END
+ssv6200_reg.h
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/software/!svn/ver/7673/project/IOT/tag/iot-host-7672/trunk/iot-host/host/include/priv/hw/regs/ssv6200_reg.h
+END
+ssv6200_gpio.h
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/software/!svn/ver/7673/project/IOT/tag/iot-host-7672/trunk/iot-host/host/include/priv/hw/regs/ssv6200_gpio.h
+END

@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/software/!svn/ver/7673/project/IOT/tag/iot-host-7672/trunk/iot-host/host/tcpip/lwip-1.4.0/src/netif
+END
+ethernetif.c
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/software/!svn/ver/7673/project/IOT/tag/iot-host-7672/trunk/iot-host/host/tcpip/lwip-1.4.0/src/netif/ethernetif.c
+END
+FILES
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/software/!svn/ver/7673/project/IOT/tag/iot-host-7672/trunk/iot-host/host/tcpip/lwip-1.4.0/src/netif/FILES
+END
+etharp.c
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/software/!svn/ver/7673/project/IOT/tag/iot-host-7672/trunk/iot-host/host/tcpip/lwip-1.4.0/src/netif/etharp.c
+END
+slipif.c
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/software/!svn/ver/7673/project/IOT/tag/iot-host-7672/trunk/iot-host/host/tcpip/lwip-1.4.0/src/netif/slipif.c
+END

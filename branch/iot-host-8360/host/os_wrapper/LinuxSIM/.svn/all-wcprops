@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/software/!svn/ver/8367/project/IOT/branch/iot-host-8360/host/os_wrapper/LinuxSIM
+END
+porting.c
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/software/!svn/ver/8367/project/IOT/branch/iot-host-8360/host/os_wrapper/LinuxSIM/porting.c
+END
+rtos_glue.c
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/software/!svn/ver/8367/project/IOT/branch/iot-host-8360/host/os_wrapper/LinuxSIM/rtos_glue.c
+END
+porting.h
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/software/!svn/ver/8367/project/IOT/branch/iot-host-8360/host/os_wrapper/LinuxSIM/porting.h
+END
+rtos.c
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/software/!svn/ver/8367/project/IOT/branch/iot-host-8360/host/os_wrapper/LinuxSIM/rtos.c
+END

@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/software/!svn/ver/9476/project/IOT/trunk/iot-host/host/drv/sdio_linux
+END
+sdio_def.h
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/software/!svn/ver/9476/project/IOT/trunk/iot-host/host/drv/sdio_linux/sdio_def.h
+END
+sdio.h
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/software/!svn/ver/7055/project/IOT/trunk/iot-host/host/drv/sdio_linux/sdio.h
+END
+sdio_if_impl.c
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/software/!svn/ver/7055/project/IOT/trunk/iot-host/host/drv/sdio_linux/sdio_if_impl.c
+END
+sdio_ioctl.h
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/software/!svn/ver/7012/project/IOT/trunk/iot-host/host/drv/sdio_linux/sdio_ioctl.h
+END
+sdio.c
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/software/!svn/ver/7055/project/IOT/trunk/iot-host/host/drv/sdio_linux/sdio.c
+END

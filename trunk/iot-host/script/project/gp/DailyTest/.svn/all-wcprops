@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/software/!svn/ver/8584/project/IOT/trunk/iot-host/script/project/gp/DailyTest
+END
+connectAP.bat
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/software/!svn/ver/8584/project/IOT/trunk/iot-host/script/project/gp/DailyTest/connectAP.bat
+END
+disconnectAP.bat
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/software/!svn/ver/8584/project/IOT/trunk/iot-host/script/project/gp/DailyTest/disconnectAP.bat
+END
+autotest.pl
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/software/!svn/ver/8584/project/IOT/trunk/iot-host/script/project/gp/DailyTest/autotest.pl
+END
+auto-test.xml
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/software/!svn/ver/8584/project/IOT/trunk/iot-host/script/project/gp/DailyTest/auto-test.xml
+END
+autoTest.sikuli.7z
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/software/!svn/ver/8584/project/IOT/trunk/iot-host/script/project/gp/DailyTest/autoTest.sikuli.7z
+END

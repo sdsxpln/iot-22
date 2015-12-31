@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/software/!svn/ver/8367/project/IOT/branch/iot-host-8360/script
+END
+lint.mk
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/software/!svn/ver/8367/project/IOT/branch/iot-host-8360/script/lint.mk
+END
+wifi.ini
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/software/!svn/ver/8367/project/IOT/branch/iot-host-8360/script/wifi.ini
+END
+lint.sh
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/software/!svn/ver/8367/project/IOT/branch/iot-host-8360/script/lint.sh
+END
+CAB.lnt
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/software/!svn/ver/8367/project/IOT/branch/iot-host-8360/script/CAB.lnt
+END
+gcc_inc.lnt
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/software/!svn/ver/8367/project/IOT/branch/iot-host-8360/script/gcc_inc.lnt
+END
+modify.pl
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/software/!svn/ver/8367/project/IOT/branch/iot-host-8360/script/modify.pl
+END
+ver_info.pl
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/software/!svn/ver/8367/project/IOT/branch/iot-host-8360/script/ver_info.pl
+END
+lintwine
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/software/!svn/ver/8367/project/IOT/branch/iot-host-8360/script/lintwine
+END

@@ -1,0 +1,137 @@
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/software/!svn/ver/9708/project/IOT/trunk/iot-host/host/app/netapp/udhcp
+END
+dhcpc.c
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/software/!svn/ver/7190/project/IOT/trunk/iot-host/host/app/netapp/udhcp/dhcpc.c
+END
+d6_socket.c
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/software/!svn/ver/7190/project/IOT/trunk/iot-host/host/app/netapp/udhcp/d6_socket.c
+END
+dhcpd.c
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/software/!svn/ver/9708/project/IOT/trunk/iot-host/host/app/netapp/udhcp/dhcpd.c
+END
+static_leases.c
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/software/!svn/ver/9708/project/IOT/trunk/iot-host/host/app/netapp/udhcp/static_leases.c
+END
+dhcpc.h
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/software/!svn/ver/7190/project/IOT/trunk/iot-host/host/app/netapp/udhcp/dhcpc.h
+END
+d6_common.h
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/software/!svn/ver/7190/project/IOT/trunk/iot-host/host/app/netapp/udhcp/d6_common.h
+END
+dhcpd.h
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/software/!svn/ver/7212/project/IOT/trunk/iot-host/host/app/netapp/udhcp/dhcpd.h
+END
+common.c
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/software/!svn/ver/8410/project/IOT/trunk/iot-host/host/app/netapp/udhcp/common.c
+END
+socket.c
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/software/!svn/ver/8410/project/IOT/trunk/iot-host/host/app/netapp/udhcp/socket.c
+END
+signalpipe.c
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/software/!svn/ver/7240/project/IOT/trunk/iot-host/host/app/netapp/udhcp/signalpipe.c
+END
+time.c
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/software/!svn/ver/7240/project/IOT/trunk/iot-host/host/app/netapp/udhcp/time.c
+END
+arpping.c
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/software/!svn/ver/7240/project/IOT/trunk/iot-host/host/app/netapp/udhcp/arpping.c
+END
+d6_packet.c
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/software/!svn/ver/7190/project/IOT/trunk/iot-host/host/app/netapp/udhcp/d6_packet.c
+END
+files.c
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/software/!svn/ver/8534/project/IOT/trunk/iot-host/host/app/netapp/udhcp/files.c
+END
+dumpleases.c
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/software/!svn/ver/7190/project/IOT/trunk/iot-host/host/app/netapp/udhcp/dumpleases.c
+END
+domain_codec.c
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/software/!svn/ver/7245/project/IOT/trunk/iot-host/host/app/netapp/udhcp/domain_codec.c
+END
+packet.c
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/software/!svn/ver/8410/project/IOT/trunk/iot-host/host/app/netapp/udhcp/packet.c
+END
+d6_dhcpc.c
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/software/!svn/ver/7190/project/IOT/trunk/iot-host/host/app/netapp/udhcp/d6_dhcpc.c
+END
+read.c
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/software/!svn/ver/7416/project/IOT/trunk/iot-host/host/app/netapp/udhcp/read.c
+END
+dhcprelay.c
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/software/!svn/ver/7240/project/IOT/trunk/iot-host/host/app/netapp/udhcp/dhcprelay.c
+END
+leases.c
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/software/!svn/ver/9071/project/IOT/trunk/iot-host/host/app/netapp/udhcp/leases.c
+END
+udhcp_common.h
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/software/!svn/ver/8410/project/IOT/trunk/iot-host/host/app/netapp/udhcp/udhcp_common.h
+END

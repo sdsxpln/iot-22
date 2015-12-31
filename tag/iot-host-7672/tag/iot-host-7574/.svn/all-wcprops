@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/software/!svn/ver/7673/project/IOT/tag/iot-host-7672/tag/iot-host-7574
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/software/!svn/ver/7673/project/IOT/tag/iot-host-7672/tag/iot-host-7574/Makefile
+END
+.gdbinit
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/software/!svn/ver/7673/project/IOT/tag/iot-host-7672/tag/iot-host-7574/.gdbinit
+END
+ap.cfg
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/software/!svn/ver/7673/project/IOT/tag/iot-host-7672/tag/iot-host-7574/ap.cfg
+END
+default.cfg
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/software/!svn/ver/7673/project/IOT/tag/iot-host-7672/tag/iot-host-7574/default.cfg
+END
+ssv6200-uart.bin
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/software/!svn/ver/7673/project/IOT/tag/iot-host-7672/tag/iot-host-7574/ssv6200-uart.bin
+END
+.project
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/software/!svn/ver/7673/project/IOT/tag/iot-host-7672/tag/iot-host-7574/.project
+END
+.cproject
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/software/!svn/ver/7673/project/IOT/tag/iot-host-7672/tag/iot-host-7574/.cproject
+END
+release.sh
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/software/!svn/ver/7673/project/IOT/tag/iot-host-7672/tag/iot-host-7574/release.sh
+END
+readme.txt
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/software/!svn/ver/7673/project/IOT/tag/iot-host-7672/tag/iot-host-7574/readme.txt
+END
+Makefile.release
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/software/!svn/ver/7673/project/IOT/tag/iot-host-7672/tag/iot-host-7574/Makefile.release
+END

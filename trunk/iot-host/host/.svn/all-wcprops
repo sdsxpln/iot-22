@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/software/!svn/ver/9846/project/IOT/trunk/iot-host/host
+END
+init.c
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/software/!svn/ver/9811/project/IOT/trunk/iot-host/host/init.c
+END
+main.c
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/software/!svn/ver/9843/project/IOT/trunk/iot-host/host/main.c
+END
+version.c
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/software/!svn/ver/9708/project/IOT/trunk/iot-host/host/version.c
+END
+ethermac.c
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/software/!svn/ver/8061/project/IOT/trunk/iot-host/host/ethermac.c
+END
+macaddr.c
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/software/!svn/ver/8160/project/IOT/trunk/iot-host/host/macaddr.c
+END

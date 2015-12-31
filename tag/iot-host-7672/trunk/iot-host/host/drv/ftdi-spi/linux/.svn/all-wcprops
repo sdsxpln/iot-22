@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/software/!svn/ver/7673/project/IOT/tag/iot-host-7672/trunk/iot-host/host/drv/ftdi-spi/linux
+END
+WinTypes.h
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/software/!svn/ver/7673/project/IOT/tag/iot-host-7672/trunk/iot-host/host/drv/ftdi-spi/linux/WinTypes.h
+END
+ftd2xx.h
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/software/!svn/ver/7673/project/IOT/tag/iot-host-7672/trunk/iot-host/host/drv/ftdi-spi/linux/ftd2xx.h
+END

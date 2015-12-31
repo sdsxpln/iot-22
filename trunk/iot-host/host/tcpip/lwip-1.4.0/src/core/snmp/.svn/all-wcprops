@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/software/!svn/ver/8521/project/IOT/trunk/iot-host/host/tcpip/lwip-1.4.0/src/core/snmp
+END
+asn1_enc.c
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/software/!svn/ver/7012/project/IOT/trunk/iot-host/host/tcpip/lwip-1.4.0/src/core/snmp/asn1_enc.c
+END
+mib2.c
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/software/!svn/ver/8521/project/IOT/trunk/iot-host/host/tcpip/lwip-1.4.0/src/core/snmp/mib2.c
+END
+msg_in.c
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/software/!svn/ver/8521/project/IOT/trunk/iot-host/host/tcpip/lwip-1.4.0/src/core/snmp/msg_in.c
+END
+asn1_dec.c
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/software/!svn/ver/7012/project/IOT/trunk/iot-host/host/tcpip/lwip-1.4.0/src/core/snmp/asn1_dec.c
+END
+msg_out.c
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/software/!svn/ver/8521/project/IOT/trunk/iot-host/host/tcpip/lwip-1.4.0/src/core/snmp/msg_out.c
+END
+mib_structs.c
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/software/!svn/ver/8521/project/IOT/trunk/iot-host/host/tcpip/lwip-1.4.0/src/core/snmp/mib_structs.c
+END

@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/software/!svn/ver/8520/project/IOT/trunk/iot-host/script/project/gp/DailyBuild
+END
+run-daily-build.pl
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/software/!svn/ver/8520/project/IOT/trunk/iot-host/script/project/gp/DailyBuild/run-daily-build.pl
+END
+dailybuild.pl
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/software/!svn/ver/8520/project/IOT/trunk/iot-host/script/project/gp/DailyBuild/dailybuild.pl
+END
+autobuild.bat
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/software/!svn/ver/8520/project/IOT/trunk/iot-host/script/project/gp/DailyBuild/autobuild.bat
+END
+autodailybuild.bat
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/software/!svn/ver/8520/project/IOT/trunk/iot-host/script/project/gp/DailyBuild/autodailybuild.bat
+END

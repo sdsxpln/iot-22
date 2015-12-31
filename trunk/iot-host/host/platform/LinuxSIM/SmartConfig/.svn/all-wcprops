@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/software/!svn/ver/9811/project/IOT/trunk/iot-host/host/platform/LinuxSIM/SmartConfig
+END
+airkiss.h
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/software/!svn/ver/9802/project/IOT/trunk/iot-host/host/platform/LinuxSIM/SmartConfig/airkiss.h
+END
+libairkiss.a
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/software/!svn/ver/9802/project/IOT/trunk/iot-host/host/platform/LinuxSIM/SmartConfig/libairkiss.a
+END
+libairkiss_log.a
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/software/!svn/ver/9802/project/IOT/trunk/iot-host/host/platform/LinuxSIM/SmartConfig/libairkiss_log.a
+END
+SmartConfig.c
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/software/!svn/ver/9811/project/IOT/trunk/iot-host/host/platform/LinuxSIM/SmartConfig/SmartConfig.c
+END
+SmartConfig.h
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/software/!svn/ver/9802/project/IOT/trunk/iot-host/host/platform/LinuxSIM/SmartConfig/SmartConfig.h
+END
+libairkiss_aes.a
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/software/!svn/ver/9802/project/IOT/trunk/iot-host/host/platform/LinuxSIM/SmartConfig/libairkiss_aes.a
+END
+libairkiss_aes_log.a
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/software/!svn/ver/9802/project/IOT/trunk/iot-host/host/platform/LinuxSIM/SmartConfig/libairkiss_aes_log.a
+END

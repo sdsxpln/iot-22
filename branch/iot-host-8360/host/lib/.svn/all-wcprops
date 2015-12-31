@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/software/!svn/ver/8367/project/IOT/branch/iot-host-8360/host/lib
+END
+lib-impl.c
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/software/!svn/ver/8367/project/IOT/branch/iot-host-8360/host/lib/lib-impl.c
+END
+ssv_frame.c
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/software/!svn/ver/8367/project/IOT/branch/iot-host-8360/host/lib/ssv_frame.c
+END
+efuse.c
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/software/!svn/ver/8367/project/IOT/branch/iot-host-8360/host/lib/efuse.c
+END
+ssv_timer.c
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/software/!svn/ver/8367/project/IOT/branch/iot-host-8360/host/lib/ssv_timer.c
+END
+ssv_lib.c
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/software/!svn/ver/8367/project/IOT/branch/iot-host-8360/host/lib/ssv_lib.c
+END
+ssv_msg.c
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/software/!svn/ver/8367/project/IOT/branch/iot-host-8360/host/lib/ssv_msg.c
+END

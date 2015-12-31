@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/software/!svn/ver/7673/project/IOT/tag/iot-host-7672/tag/iot-host-7574/host/drv
+END
+ssv_drv.h
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/software/!svn/ver/7673/project/IOT/tag/iot-host-7672/tag/iot-host-7574/host/drv/ssv_drv.h
+END
+ssv_drv_config.h
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/software/!svn/ver/7673/project/IOT/tag/iot-host-7672/tag/iot-host-7574/host/drv/ssv_drv_config.h
+END
+ssv_drv.c
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/software/!svn/ver/7673/project/IOT/tag/iot-host-7672/tag/iot-host-7574/host/drv/ssv_drv.c
+END

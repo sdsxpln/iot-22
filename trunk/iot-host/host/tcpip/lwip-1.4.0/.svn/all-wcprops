@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/software/!svn/ver/9739/project/IOT/trunk/iot-host/host/tcpip/lwip-1.4.0
+END
+UPGRADING
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/software/!svn/ver/7012/project/IOT/trunk/iot-host/host/tcpip/lwip-1.4.0/UPGRADING
+END
+FILES
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/software/!svn/ver/7012/project/IOT/trunk/iot-host/host/tcpip/lwip-1.4.0/FILES
+END
+CHANGELOG
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/software/!svn/ver/7012/project/IOT/trunk/iot-host/host/tcpip/lwip-1.4.0/CHANGELOG
+END
+COPYING
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/software/!svn/ver/7012/project/IOT/trunk/iot-host/host/tcpip/lwip-1.4.0/COPYING
+END
+README
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/software/!svn/ver/7012/project/IOT/trunk/iot-host/host/tcpip/lwip-1.4.0/README
+END

@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/software/!svn/ver/8367/project/IOT/branch/iot-host-8360/host/lib/apps
+END
+msgevt.c
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/software/!svn/ver/8367/project/IOT/branch/iot-host-8360/host/lib/apps/msgevt.c
+END
+pbuf.c
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/software/!svn/ver/8367/project/IOT/branch/iot-host-8360/host/lib/apps/pbuf.c
+END
+host_global.c
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/software/!svn/ver/8367/project/IOT/branch/iot-host-8360/host/lib/apps/host_global.c
+END
+host_log.c
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/software/!svn/ver/8367/project/IOT/branch/iot-host-8360/host/lib/apps/host_log.c
+END

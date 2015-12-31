@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/software/!svn/ver/7673/project/IOT/tag/iot-host-7672/tag/iot-host-7574/script
+END
+lint.mk
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/software/!svn/ver/7673/project/IOT/tag/iot-host-7672/tag/iot-host-7574/script/lint.mk
+END
+lint.sh
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/software/!svn/ver/7673/project/IOT/tag/iot-host-7672/tag/iot-host-7574/script/lint.sh
+END
+CAB.lnt
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/software/!svn/ver/7673/project/IOT/tag/iot-host-7672/tag/iot-host-7574/script/CAB.lnt
+END
+gcc_inc.lnt
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/software/!svn/ver/7673/project/IOT/tag/iot-host-7672/tag/iot-host-7574/script/gcc_inc.lnt
+END
+lintwine
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/software/!svn/ver/7673/project/IOT/tag/iot-host-7672/tag/iot-host-7574/script/lintwine
+END

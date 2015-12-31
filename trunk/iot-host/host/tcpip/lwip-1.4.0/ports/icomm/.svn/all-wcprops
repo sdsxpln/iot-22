@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/software/!svn/ver/8827/project/IOT/trunk/iot-host/host/tcpip/lwip-1.4.0/ports/icomm
+END
+lwipcfg_msvc.h
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/software/!svn/ver/7052/project/IOT/trunk/iot-host/host/tcpip/lwip-1.4.0/ports/icomm/lwipcfg_msvc.h
+END
+sys_arch.c
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/software/!svn/ver/8827/project/IOT/trunk/iot-host/host/tcpip/lwip-1.4.0/ports/icomm/sys_arch.c
+END

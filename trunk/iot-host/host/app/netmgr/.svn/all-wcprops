@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/software/!svn/ver/9811/project/IOT/trunk/iot-host/host/app/netmgr
+END
+net_mgr.c
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/software/!svn/ver/9811/project/IOT/trunk/iot-host/host/app/netmgr/net_mgr.c
+END
+net_mgr.h
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/software/!svn/ver/9811/project/IOT/trunk/iot-host/host/app/netmgr/net_mgr.h
+END

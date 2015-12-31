@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/software/!svn/ver/8144/project/IOT/trunk/iot-host/host/app/netapp/ttcp
+END
+ttcp.h
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/software/!svn/ver/7245/project/IOT/trunk/iot-host/host/app/netapp/ttcp/ttcp.h
+END
+ttcp.c
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/software/!svn/ver/8144/project/IOT/trunk/iot-host/host/app/netapp/ttcp/ttcp.c
+END

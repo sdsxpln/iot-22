@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/software/!svn/ver/9843/project/IOT/trunk/iot-host/host/os_wrapper/FreeRTOS
+END
+rtos.c
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/software/!svn/ver/9843/project/IOT/trunk/iot-host/host/os_wrapper/FreeRTOS/rtos.c
+END
+rtos_def.h
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/software/!svn/ver/9708/project/IOT/trunk/iot-host/host/os_wrapper/FreeRTOS/rtos_def.h
+END
+rtos_glue.c
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/software/!svn/ver/9708/project/IOT/trunk/iot-host/host/os_wrapper/FreeRTOS/rtos_glue.c
+END

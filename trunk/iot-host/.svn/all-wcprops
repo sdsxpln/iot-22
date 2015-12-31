@@ -1,0 +1,89 @@
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/software/!svn/ver/9846/project/IOT/trunk/iot-host
+END
+Makefile.release
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/software/!svn/ver/7053/project/IOT/trunk/iot-host/Makefile.release
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/software/!svn/ver/9827/project/IOT/trunk/iot-host/Makefile
+END
+.gdbinit
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/software/!svn/ver/7012/project/IOT/trunk/iot-host/.gdbinit
+END
+build_gp.sh
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/software/!svn/ver/7959/project/IOT/trunk/iot-host/build_gp.sh
+END
+gp_lib_release.bat
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/software/!svn/ver/9804/project/IOT/trunk/iot-host/gp_lib_release.bat
+END
+ssv6200-uart.bin
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/software/!svn/ver/9846/project/IOT/trunk/iot-host/ssv6200-uart.bin
+END
+.project
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/software/!svn/ver/7012/project/IOT/trunk/iot-host/.project
+END
+build_gp19.bat
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/software/!svn/ver/8234/project/IOT/trunk/iot-host/build_gp19.bat
+END
+.cproject
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/software/!svn/ver/7012/project/IOT/trunk/iot-host/.cproject
+END
+release.sh
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/software/!svn/ver/7012/project/IOT/trunk/iot-host/release.sh
+END
+wifi_sim_heap_check.sh
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/software/!svn/ver/9827/project/IOT/trunk/iot-host/wifi_sim_heap_check.sh
+END
+build_gp.bat
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/software/!svn/ver/8234/project/IOT/trunk/iot-host/build_gp.bat
+END
+wifi_sim_heap_check_log.sh
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/software/!svn/ver/9827/project/IOT/trunk/iot-host/wifi_sim_heap_check_log.sh
+END
+readme.txt
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/software/!svn/ver/7012/project/IOT/trunk/iot-host/readme.txt
+END

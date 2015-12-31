@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/software/!svn/ver/8587/project/IOT/trunk/iot-host/script
+END
+lint.mk
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/software/!svn/ver/7260/project/IOT/trunk/iot-host/script/lint.mk
+END
+wifi.ini
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/software/!svn/ver/8357/project/IOT/trunk/iot-host/script/wifi.ini
+END
+lint.sh
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/software/!svn/ver/7268/project/IOT/trunk/iot-host/script/lint.sh
+END
+CAB.lnt
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/software/!svn/ver/7536/project/IOT/trunk/iot-host/script/CAB.lnt
+END
+gcc_inc.lnt
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/software/!svn/ver/7271/project/IOT/trunk/iot-host/script/gcc_inc.lnt
+END
+modify.pl
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/software/!svn/ver/8339/project/IOT/trunk/iot-host/script/modify.pl
+END
+ver_info.pl
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/software/!svn/ver/8587/project/IOT/trunk/iot-host/script/ver_info.pl
+END
+lintwine
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/software/!svn/ver/7277/project/IOT/trunk/iot-host/script/lintwine
+END

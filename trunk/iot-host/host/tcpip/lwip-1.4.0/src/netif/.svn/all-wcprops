@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/software/!svn/ver/9647/project/IOT/trunk/iot-host/host/tcpip/lwip-1.4.0/src/netif
+END
+ethernetif.c
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/software/!svn/ver/9647/project/IOT/trunk/iot-host/host/tcpip/lwip-1.4.0/src/netif/ethernetif.c
+END
+FILES
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/software/!svn/ver/7012/project/IOT/trunk/iot-host/host/tcpip/lwip-1.4.0/src/netif/FILES
+END
+etharp.c
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/software/!svn/ver/8649/project/IOT/trunk/iot-host/host/tcpip/lwip-1.4.0/src/netif/etharp.c
+END
+slipif.c
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/software/!svn/ver/8521/project/IOT/trunk/iot-host/host/tcpip/lwip-1.4.0/src/netif/slipif.c
+END

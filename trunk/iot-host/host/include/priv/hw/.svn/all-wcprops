@@ -1,0 +1,83 @@
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/software/!svn/ver/9821/project/IOT/trunk/iot-host/host/include/priv/hw
+END
+cmd_def.h
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/software/!svn/ver/9821/project/IOT/trunk/iot-host/host/include/priv/hw/cmd_def.h
+END
+log.h
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/software/!svn/ver/8370/project/IOT/trunk/iot-host/host/include/priv/hw/log.h
+END
+wpa_supplicant_i.h
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/software/!svn/ver/7012/project/IOT/trunk/iot-host/host/include/priv/hw/wpa_supplicant_i.h
+END
+types.h
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/software/!svn/ver/8526/project/IOT/trunk/iot-host/host/include/priv/hw/types.h
+END
+config.h
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/software/!svn/ver/8957/project/IOT/trunk/iot-host/host/include/priv/hw/config.h
+END
+msgevt.h
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/software/!svn/ver/7613/project/IOT/trunk/iot-host/host/include/priv/hw/msgevt.h
+END
+common.h
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/software/!svn/ver/9816/project/IOT/trunk/iot-host/host/include/priv/hw/common.h
+END
+ssv_pktdef.h
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/software/!svn/ver/9777/project/IOT/trunk/iot-host/host/include/priv/hw/ssv_pktdef.h
+END
+ethertype.h
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/software/!svn/ver/7012/project/IOT/trunk/iot-host/host/include/priv/hw/ethertype.h
+END
+hdr80211.h
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/software/!svn/ver/7212/project/IOT/trunk/iot-host/host/include/priv/hw/hdr80211.h
+END
+drv_mac.h
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/software/!svn/ver/7012/project/IOT/trunk/iot-host/host/include/priv/hw/drv_mac.h
+END
+ssv_regs.h
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/software/!svn/ver/7012/project/IOT/trunk/iot-host/host/include/priv/hw/ssv_regs.h
+END
+pbuf.h
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/software/!svn/ver/7566/project/IOT/trunk/iot-host/host/include/priv/hw/pbuf.h
+END

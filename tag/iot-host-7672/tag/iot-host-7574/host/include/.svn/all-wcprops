@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/software/!svn/ver/7673/project/IOT/tag/iot-host-7672/tag/iot-host-7574/host/include
+END
+txrx_hdl.h
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/software/!svn/ver/7673/project/IOT/tag/iot-host-7672/tag/iot-host-7574/host/include/txrx_hdl.h
+END
+ssv_ex_lib.h
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/software/!svn/ver/7673/project/IOT/tag/iot-host-7672/tag/iot-host-7574/host/include/ssv_ex_lib.h
+END
+dev_tbl.h
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/software/!svn/ver/7673/project/IOT/tag/iot-host-7672/tag/iot-host-7574/host/include/dev_tbl.h
+END
+os_wrapper.h
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/software/!svn/ver/7673/project/IOT/tag/iot-host-7672/tag/iot-host-7574/host/include/os_wrapper.h
+END
+ssv_drv_if.h
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/software/!svn/ver/7673/project/IOT/tag/iot-host-7672/tag/iot-host-7574/host/include/ssv_drv_if.h
+END
+host_cmd_engine.h
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/software/!svn/ver/7673/project/IOT/tag/iot-host-7672/tag/iot-host-7574/host/include/host_cmd_engine.h
+END
+ssv6200_uart_bin.h
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/software/!svn/ver/7673/project/IOT/tag/iot-host-7672/tag/iot-host-7574/host/include/ssv6200_uart_bin.h
+END
+rtos.h
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/software/!svn/ver/7673/project/IOT/tag/iot-host-7672/tag/iot-host-7574/host/include/rtos.h
+END
+host_apis.h
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/software/!svn/ver/7673/project/IOT/tag/iot-host-7672/tag/iot-host-7574/host/include/host_apis.h
+END

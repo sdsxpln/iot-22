@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/software/!svn/ver/9836/project/IOT/trunk/iot-host/host/drv
+END
+ssv_drv_config.h
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/software/!svn/ver/7244/project/IOT/trunk/iot-host/host/drv/ssv_drv_config.h
+END
+ssv_drv.c
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/software/!svn/ver/9473/project/IOT/trunk/iot-host/host/drv/ssv_drv.c
+END
+ssv_drv.h
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/software/!svn/ver/9465/project/IOT/trunk/iot-host/host/drv/ssv_drv.h
+END

@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/software/!svn/ver/7673/project/IOT/tag/iot-host-7672/trunk/iot-host/host/os_wrapper/LinuxSIM
+END
+porting.c
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/software/!svn/ver/7673/project/IOT/tag/iot-host-7672/trunk/iot-host/host/os_wrapper/LinuxSIM/porting.c
+END
+rtos_glue.c
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/software/!svn/ver/7673/project/IOT/tag/iot-host-7672/trunk/iot-host/host/os_wrapper/LinuxSIM/rtos_glue.c
+END
+porting.h
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/software/!svn/ver/7673/project/IOT/tag/iot-host-7672/trunk/iot-host/host/os_wrapper/LinuxSIM/porting.h
+END
+rtos.c
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/software/!svn/ver/7673/project/IOT/tag/iot-host-7672/trunk/iot-host/host/os_wrapper/LinuxSIM/rtos.c
+END

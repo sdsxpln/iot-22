@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/software/!svn/ver/9843/project/IOT/trunk/iot-host/host/os_wrapper/MicroC
+END
+rtos.c
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/software/!svn/ver/9843/project/IOT/trunk/iot-host/host/os_wrapper/MicroC/rtos.c
+END
+rtos_def.h
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/software/!svn/ver/9698/project/IOT/trunk/iot-host/host/os_wrapper/MicroC/rtos_def.h
+END

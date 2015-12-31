@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/software/!svn/ver/7673/project/IOT/tag/iot-host-7672/tag/iot-host-7574/host
+END
+macaddr.c
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/software/!svn/ver/7673/project/IOT/tag/iot-host-7672/tag/iot-host-7574/host/macaddr.c
+END
+init.c
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/software/!svn/ver/7673/project/IOT/tag/iot-host-7672/tag/iot-host-7574/host/init.c
+END
+main.c
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/software/!svn/ver/7673/project/IOT/tag/iot-host-7672/tag/iot-host-7574/host/main.c
+END

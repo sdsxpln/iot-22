@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/software/!svn/ver/9843/project/IOT/trunk/iot-host/host/platform/LinuxSIM
+END
+porting.h
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/software/!svn/ver/9843/project/IOT/trunk/iot-host/host/platform/LinuxSIM/porting.h
+END
+porting.c
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/software/!svn/ver/9827/project/IOT/trunk/iot-host/host/platform/LinuxSIM/porting.c
+END

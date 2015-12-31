@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/software/!svn/ver/8367/project/IOT/branch/iot-host-8360/host/drv/spi
+END
+spi.c
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/software/!svn/ver/8367/project/IOT/branch/iot-host-8360/host/drv/spi/spi.c
+END
+spi_def.h
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/software/!svn/ver/8367/project/IOT/branch/iot-host-8360/host/drv/spi/spi_def.h
+END
+spi_if_imp.c
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/software/!svn/ver/8367/project/IOT/branch/iot-host-8360/host/drv/spi/spi_if_imp.c
+END
+spi.h
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/software/!svn/ver/8367/project/IOT/branch/iot-host-8360/host/drv/spi/spi.h
+END

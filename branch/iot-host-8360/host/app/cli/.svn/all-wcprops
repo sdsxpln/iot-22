@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/software/!svn/ver/8367/project/IOT/branch/iot-host-8360/host/app/cli
+END
+cli_key.c
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/software/!svn/ver/8367/project/IOT/branch/iot-host-8360/host/app/cli/cli_key.c
+END
+cli.c
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/software/!svn/ver/8367/project/IOT/branch/iot-host-8360/host/app/cli/cli.c
+END
+cli.h
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/software/!svn/ver/8367/project/IOT/branch/iot-host-8360/host/app/cli/cli.h
+END

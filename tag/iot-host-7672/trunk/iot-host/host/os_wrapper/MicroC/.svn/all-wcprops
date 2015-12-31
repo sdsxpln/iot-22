@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/software/!svn/ver/7673/project/IOT/tag/iot-host-7672/trunk/iot-host/host/os_wrapper/MicroC
+END
+porting.h
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/software/!svn/ver/7673/project/IOT/tag/iot-host-7672/trunk/iot-host/host/os_wrapper/MicroC/porting.h
+END
+rtos.c
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/software/!svn/ver/7673/project/IOT/tag/iot-host-7672/trunk/iot-host/host/os_wrapper/MicroC/rtos.c
+END
+porting.c
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/software/!svn/ver/7673/project/IOT/tag/iot-host-7672/trunk/iot-host/host/os_wrapper/MicroC/porting.c
+END

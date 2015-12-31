@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/software/!svn/ver/8367/project/IOT/branch/iot-host-8360/host/include/priv/hw/regs
+END
+ssv6200_aux.h
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/software/!svn/ver/8367/project/IOT/branch/iot-host-8360/host/include/priv/hw/regs/ssv6200_aux.h
+END
+ssv6200_reg.h
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/software/!svn/ver/8367/project/IOT/branch/iot-host-8360/host/include/priv/hw/regs/ssv6200_reg.h
+END
+ssv6200_gpio.h
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/software/!svn/ver/8367/project/IOT/branch/iot-host-8360/host/include/priv/hw/regs/ssv6200_gpio.h
+END
+ssv6200_configuration.h
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/software/!svn/ver/8367/project/IOT/branch/iot-host-8360/host/include/priv/hw/regs/ssv6200_configuration.h
+END

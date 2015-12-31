@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/software/!svn/ver/7661/project/IOT/tag/iot-host-7574/host/drv/ftdi-spi
+END
+FTCSPI.h
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/software/!svn/ver/7661/project/IOT/tag/iot-host-7574/host/drv/ftdi-spi/FTCSPI.h
+END
+libMPSSE_spi.h
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/software/!svn/ver/7661/project/IOT/tag/iot-host-7574/host/drv/ftdi-spi/libMPSSE_spi.h
+END
+FTCSPI.dll
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/software/!svn/ver/7661/project/IOT/tag/iot-host-7574/host/drv/ftdi-spi/FTCSPI.dll
+END
+SPI_defs.h
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/software/!svn/ver/7661/project/IOT/tag/iot-host-7574/host/drv/ftdi-spi/SPI_defs.h
+END
+ftdi_spi.c
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/software/!svn/ver/7661/project/IOT/tag/iot-host-7574/host/drv/ftdi-spi/ftdi_spi.c
+END
+ftdi_spi_if_imp.c
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/software/!svn/ver/7661/project/IOT/tag/iot-host-7574/host/drv/ftdi-spi/ftdi_spi_if_imp.c
+END
+FTCSPI64.lib
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/software/!svn/ver/7661/project/IOT/tag/iot-host-7574/host/drv/ftdi-spi/FTCSPI64.lib
+END
+ftdi_spi.h
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/software/!svn/ver/7661/project/IOT/tag/iot-host-7574/host/drv/ftdi-spi/ftdi_spi.h
+END
+FTCSPI64.dll
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/software/!svn/ver/7661/project/IOT/tag/iot-host-7574/host/drv/ftdi-spi/FTCSPI64.dll
+END
+FTCSPI.lib
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/software/!svn/ver/7661/project/IOT/tag/iot-host-7574/host/drv/ftdi-spi/FTCSPI.lib
+END
